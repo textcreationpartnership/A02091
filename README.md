@@ -36,9 +36,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The comicall historie of Alphonsus, King of Aragon As it hath bene sundrie times acted. Made by R.G.
+
 #####Body#####
-The comicall historie of Alphonsus, King of Aragon As it hath bene sundrie times acted. Made by R.G.
+
+1. Act. I.
+
+1. Act. 3.
+
+1. Act. 3.
+
 **Types of content**
 
   * There are 1419 **verse** lines!
